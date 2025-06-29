@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JabukaMK2
 - 👀 I’m interested in cats and gaming
-- 🌱 I’m currently learning computer science at SNHU
+- 🌱 I’m a computer science major at SNHU
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Fun facts are very rarely actually fun!
 
